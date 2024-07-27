@@ -6,8 +6,8 @@ Demonstration of the Adapter design pattern, which allows incompatible interface
 ## Design Pattern: Adapter
 The Adapter pattern enables objects with incompatible interfaces to work together. It is particularly useful when integrating new functionality with legacy code or when you need to work with existing systems that use different interfaces.
 
-## Project Structure
-The project consists of three main components:
+## Structure
+This use case consists of three main components:
 
 1. Target Interface (`NewLogger`)
    - Defines the interface expected by the client
